@@ -1,0 +1,6 @@
+[submodule "Customer-Churn-Prediction"]
+	path = Customer-Churn-Prediction
+	url = https://github.com/nirzaraghure/customer-churn-predication.git
+[submodule "Credit-Card-Fraud-Detection"]
+	path = Credit-Card-Fraud-Detection
+	url = https://github.com/nirzaraghure/credit-card-fraud-detection.git
