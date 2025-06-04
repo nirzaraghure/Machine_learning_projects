@@ -18,7 +18,6 @@ Welcome! This repository showcases two end-to-end Machine Learning projects that
 - View churn prediction in real-time
 - User-friendly web interface
 
-🔗 **Live App:** *[Click here to try it](https://customer-churn-predication-hg9scpttgm7appuzczavtgx.streamlit.app/)*
 
 ---
 
