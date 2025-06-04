@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Projects by Nirzara Ghure
+# 🧠 Machine Learning Projects
 
 Welcome! This repository showcases two end-to-end Machine Learning projects that demonstrate my skills in data preprocessing, feature engineering, model training, evaluation, and deploying ML models using Python and Streamlit.
 
